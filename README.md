@@ -1,4 +1,4 @@
-# ML for Predictive Analytics and Behavior Profiling in Darknet Forums
+# AI-powered User Behavioral Profiling in Darknet
 
  The project focuses on improving cybersecurity by utilizing advanced data analytics and machine learning techniques to analyze and predict activities within darknet hacking forums. The project's objective is to provide cybersecurity professionals with critical insights by identifying anomalies and forecasting trends, thereby enabling proactive detection and mitigation of potential threats.
 
